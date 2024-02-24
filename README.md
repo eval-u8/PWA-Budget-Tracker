@@ -21,7 +21,7 @@ If the website goes offline and a transaction is input, it'll upload it to the s
 
 ![Preview](asset/preview.png)
 
-[Netlify Link](https://unrivaled-rugelach-64eac3.netlify.app/)
+[Netlify Link](https://budget-tracker28282.netlify.app/)
 
 ## License 📓
 
