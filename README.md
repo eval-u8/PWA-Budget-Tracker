@@ -7,11 +7,9 @@
     <img src="https://img.shields.io/badge/MongoDB-blue" >
 </p>
 
-
 # Budget Tracker 📈
 
 Budget Tracker is a lightweight MongoDB-powered website to see a graph on how you're spending, or making money.
-
 
 ## Quirks 🎯
 
@@ -19,14 +17,12 @@ The website will load the transactions regardless of internet connection.
 
 If the website goes offline and a transaction is input, it'll upload it to the server once connection is restored.
 
-
-## Preview 👀 
+## Preview 👀
 
 ![Preview](asset/preview.png)
 
-
-[Heroku Link](https://stormy-mountain-76634.herokuapp.com/)
-
+[Netlify Link](https://unrivaled-rugelach-64eac3.netlify.app/)
 
 ## License 📓
+
 [MIT](https://choosealicense.com/licenses/mit/)
